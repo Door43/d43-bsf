@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bsf:home|Door43 (bsf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bsf|d43-bsf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bsf/archive/master.zip|d43-bsf.zip]]
+
+**Recent Changes**
+{{changes>ns = bsf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bsf|Ethnologue data]]
+
